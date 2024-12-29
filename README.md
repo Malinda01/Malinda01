@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Malinda 👋
 
-<!--
-**Malinda01/Malinda01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Tech Enthusiast** and a **Second-Year Software Engineering Undergraduate** at [NIBM Colombo](https://www.nibm.lk/), Sri Lanka. I am currently diving deep into the fascinating world of **Machine Learning** to achieve my dream of becoming a **Machine Learning Engineer**. 🚀
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 **Student**: Software Engineering at NIBM Colombo.
+- 🤖 **Aspiring ML Engineer**: Exploring the realms of AI and ML.
+- 💻 **Tech Enthusiast**: Always curious about emerging technologies.
+- 🛠️ **Current Focus**: Building projects in **Machine Learning**, **Web Development**, and **Robotics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+
+### **Programming Languages**
+- Python 🐍
+- Java ☕
+- C# ⚙️
+- JavaScript 🌐
+
+### **Frameworks & Tools**
+- TensorFlow and Scikit-Learn **(Learning)** 📊
+- Flask & Django **(Learning)** 🌎
+- Arduino IDE 🤖
+- Git & GitHub 🔧
+
+
+### **Web Development**
+- HTML, CSS, JavaScript
+- PHP (Backend Development)
+
+---
+
+## 📂 Projects
+### 1️⃣ **Tea Outlet Management System**
+A comprehensive system with features like POS, Inventory Management, Employee Management, and Customer Relationship Management.
+
+---
+
+## 📈 Learning Journey
+- 🌱 Currently learning advanced **Machine Learning Algorithms** and **Flood Fill Algorithm** for robotics.
+- 💡 Exploring **Portfolio Website Development** to showcase my skills and projects.
+- 📘 Pursuing certifications in **Project Management** and **Machine Learning**.
+
+---
+
+## 🤝 Connect with Me
+- 🌐 Portfolio: https://malinda01.github.io/portfolio/
+- 💼 [LinkedIn](http://www.linkedin.com/in/malindaamarakoon)
+- 📧 Email: greshanamarakoon@gmail.com
+
+---
+
+💻 *"Code, Learn, Innovate."*
